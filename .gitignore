@@ -1,0 +1,16 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Environment Variables (Secrets)
+.env
+
+# Docker
+postgres_data/
+
+# Tmp files
+restore_status.txt
+demo_rule.py
+last_run.txt
+test_*.py
