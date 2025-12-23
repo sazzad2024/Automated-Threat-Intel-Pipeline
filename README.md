@@ -2,8 +2,19 @@
 
 A scalable, automated Threat Intelligence Platform designed to ingest, correlate, and act on threat data in real-time. This system aggregates 63,000+ IOCs, maps them to MITRE ATT&CK TTPs, and generates actionable defense rules (Suricata/Snort).
 
-![Dashboard Screenshot](https://via.placeholder.com/800x400?text=Dashboard+Screenshot+Here)  
-*(Replace this with a real screenshot of your Streamlit Dashboard)*
+## 📸 Screenshots
+
+### 1. High-Level Overview
+*"See 63,000+ indicators at a glance."*
+![Dashboard Overview](assets/dashboard_overview.png)
+
+### 2. Adversary & TTP Correlation
+*"Track APT28 to their specific Techniques (MITRE) and Infrastructure."*
+![Campaign Details](assets/dashboard_details.png)
+
+### 3. Automated Rule Generation
+*"Generate defense rules in one click."*
+![Rule Export](assets/dashboard_adversary.png)
 
 ## 🚀 Key Features
 
